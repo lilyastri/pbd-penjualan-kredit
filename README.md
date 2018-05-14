@@ -37,5 +37,13 @@ https://www.apachefriends.org/download.html
 - membuat file koneksi dan file simpan ke database 
 - menginputkan data dan simpan ke database
 
+## 14 Mei 2018
+
+- membuat form input pembeli
+- membuat database untuk penjualan kredit
+- membuat file daftar barang tersedia dengan cara mengambil dari tabel daftar_kredit pada database
+
+
+
 
 
