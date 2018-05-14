@@ -40,8 +40,8 @@ https://www.apachefriends.org/download.html
 ## 14 Mei 2018
 
 - membuat form input pembeli
-- membuat database untuk penjualan kredit
-- membuat file daftar barang tersedia dengan cara mengambil dari tabel daftar_kredit pada database
+- membuat tabel trans_kredit pada database
+- membuat file daftar barang tersedia dengan cara mengambil data dari tabel daftar_kredit pada database
 
 
 
