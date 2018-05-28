@@ -48,7 +48,7 @@ https://www.apachefriends.org/download.html
 
 ## 28 Mei 2018
 
-- membuat file cart_view.php untuk menampilkan hasil barang yang dipilih pelanggan untuk dibeli
+- membuat file cart_view.php untuk menampilkan hasil barang yang dipilih pelanggan untuk dibeli dan melengkapi fungsi operasi hitungnya
 
 
 
