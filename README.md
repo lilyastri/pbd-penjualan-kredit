@@ -1,13 +1,13 @@
-# pbd-shopping-cart
+# pbd-penjualan-produk
 
-Tema/judul : aplikasi penjualan peralatan rumah tangga
+Tema/judul : aplikasi penjualan peralatan elektronik rumah tangga
 
 Batasan (Fitur) :
-- Menghitung total belanjaan 
-- Aplikasi ini dapat digunakan untuk menghapus daftar barang yang tersedia/dijual
-- Laporan penjualan barang per minggu
+- Laporan data customer 
+- Aplikasi ini dapat digunakan untuk menghapus daftar barang yang tersedia/dijual dan menghapus data customer
+- Laporan penjualan produk
 
-Aplikasi shopping cart ini dibuat oleh Lily Isnaini Astriningsih
+Aplikasi penjualan produk ini dibuat oleh Lily Isnaini Astriningsih
 
 Development tools :
 
@@ -33,7 +33,7 @@ https://www.apachefriends.org/download.html
 
 ## 7 Mei 2018
 
-- membuat form input customer ke tabel pelanggan
+- membuat form input customer ke tabel customer
 - membuat file koneksi dan file simpan ke database 
 - menginputkan data dan simpan ke database
 
@@ -44,12 +44,11 @@ https://www.apachefriends.org/download.html
 
 ## 21 Mei 2018
 
-- membuat file cart.php sebagai file fungsi untuk operasi operasi hitung yang terdapat di halaman web
+- membuat file proses.js untuk mencari data
 
 ## 28 Mei 2018
 
-- membuat file cart_view.php untuk menampilkan hasil barang yang dipilih pelanggan untuk dibeli dan melengkapi fungsi operasi hitungnya
-
+- membuat file cari_produk.php untuk melanjutkan proses cari produk
 
 
 
