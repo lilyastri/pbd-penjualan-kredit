@@ -2,10 +2,13 @@
 
 Tema/judul : aplikasi penjualan peralatan elektronik rumah tangga
 
+Deskripsi : Aplikasi ini digunakan oleh admin untuk melakukan input data customer, produk, dan transaksi penjualan yang berada      di toko kami. 
+
 Batasan (Fitur) :
 - Laporan data customer 
 - Aplikasi ini dapat digunakan untuk menghapus daftar barang yang tersedia/dijual dan menghapus data customer
 - Laporan penjualan produk
+- pembelian hanya di perbolehkan 1 unit saja 
 
 Aplikasi penjualan produk ini dibuat oleh Lily Isnaini Astriningsih
 
@@ -13,13 +16,11 @@ Development tools :
 
 Perangkat lunak yang digunakan dalam implementasi sistem ini adalah sebagai berikut.
  Sisi Server: 
-- Database MySQL 
-- Web Server Apache 
-- Sistem Operasi Windows 
+- xampp 
 - Browser Google Chrome/Mozilla Firefox 
 
 Sisi Client: 
-- Sistem Operasi Windows 
+- xampp
 - Browser Google Chrome/Mozilla Firefox
 
 Lisensi :
